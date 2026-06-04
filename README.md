@@ -1,1 +1,1 @@
-Travel Go Cloud powered Platfrom
+TravelGo is a cloud-powered real-time travel booking platform that enables users to search, compare, and book travel services seamlessly. Built with modern web technologies, it focuses on scalability, user experience, and efficient booking management.
